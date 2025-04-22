@@ -1,6 +1,5 @@
 ## EXNO-3-DS
-Name : MUKESH.B
-Reg : 212223230128
+
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
@@ -32,6 +31,11 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+
+```
+Name : MUKESH.B
+Reg : 212223230128
+```
 
 
 ![Screenshot 2025-04-22 051714](https://github.com/user-attachments/assets/6f6cbe9e-096b-428f-9224-d06f3a6d9f19)
